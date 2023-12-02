@@ -1,0 +1,31 @@
+.title{
+    text-align: center;
+  }
+  ion-content {
+    --background: #000000;
+  }
+  ion-card {
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 10%;
+  --background: #26658f;
+  --color: #ffffff;
+  }
+  
+  ion-card-title {
+  --color: #ffffff;
+  }
+  
+  ion-card-subtitle {
+  --color: #e3d1ff;
+  }
+  
+
+  ion-item.menu {
+    --padding-start: 0;
+    --background: #4c008b00;
+    }
+  
+  ion-list{
+    background-color: transparent;
+  }

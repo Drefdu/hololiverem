@@ -1,0 +1,7 @@
+{
+  "name": "hololive",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
