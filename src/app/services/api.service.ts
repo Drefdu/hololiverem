@@ -8,7 +8,7 @@ import { Observable } from 'rxjs';
 
 export class ApiService {
 
-  private apiUrl = 'http://localhost:4000'; // Ajusta la URL según la configuración de tu servidor
+  private apiUrl = 'https://expressrem.vercel.app'; // Ajusta la URL según la configuración de tu servidor
 
   constructor(private http: HttpClient) {}
 
